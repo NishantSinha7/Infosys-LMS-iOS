@@ -1,4 +1,4 @@
-# 📚 Infosys LMS — Library Management System (iOS)
+# 📚 Fable — Library Management System (iOS)
 
 > **⚠️ Note:** This is a case study repository. Source code is confidential and proprietary to Infosys. This repo documents my work, role, and technical contributions during the internship.
 
@@ -24,6 +24,7 @@ The challenge: build **two separate iOS apps** (one for end users, one for libra
 ## ✨ What We Built
 
 A two-app iOS ecosystem for library management:
+> The system was branded as **Fable** — a SaaS library platform built for a mock Infosys client engagement.
 
 | App | Users | Purpose |
 |-----|-------|---------|
